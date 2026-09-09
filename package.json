@@ -1,0 +1,8 @@
+{
+  "name": "apps-script-pto-payroll",
+  "version": "1.0.0",
+  "description": "Anniversary-aware PTO period routing, recompute-on-write balances, and the date and clock math behind a Google Sheets attendance system. No dependencies.",
+  "scripts": { "test": "node tests/run.js" },
+  "license": "MIT",
+  "private": false
+}
