@@ -1,7 +1,7 @@
 # Apps Script PTO and Payroll
 
 The routing, balance, and date logic behind a Google Sheets attendance system
-that replaced a paper time-off process for a 27-person business: **a request
+that replaced a paper time-off process for a family-owned practice: **a request
 lands on the right tab of the right employee's workbook, the balances on that
 tab are always the truth, and a "2:10 PM" typed into a form comes back out as
 2:10 PM.**
